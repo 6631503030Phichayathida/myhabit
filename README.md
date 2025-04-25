@@ -2,7 +2,7 @@
 รหัสนักศึกษา (Student ID):6631503030
 ชื่อแอป (App Name):My habit
 Framework ที่ใช้ (Framework Used): Expo go / React Native 
-ลิงก์ GitHub Repository: [ใส่ลิงก์ที่นี่ | Insert link here]
+ลิงก์ GitHub Repository:[ [ใส่ลิงก์ที่นี่ | Insert link here]](https://github.com/6631503030Phichayathida/myhabit/blob/main/README.md)
 ลิงก์ไฟล์ติดตั้ง (APK/IPA): [ใส่ลิงก์ที่นี่ | Insert link here]
 
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts)
